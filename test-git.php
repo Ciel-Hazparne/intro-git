@@ -2,4 +2,4 @@
 /*
  * Ficher servant à tester le fonctionnement de github
  */
-echo("Test github");
+echo("Bienvenue sur Git");
