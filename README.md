@@ -1,10 +1,10 @@
-# Introduction à l'utilisation de Git
+﻿# Introduction à l'utilisation de Git
 
 ---
 Modif chapitre 5.4
 
 ---
-
+ 
 ## Objectif
 ### Découvrir les commandes de base
 **Découvrir les commandes de base** nécessaires pour utiliser 
