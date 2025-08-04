@@ -3,7 +3,7 @@
 ---
 Modif chapitre 5.4  
 Modif Page d'accueil chapitre 5.5  
-Modif par le second développeur
+Modif commune Dev1 et Dev2
 
 ---
  
