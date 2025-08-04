@@ -1,5 +1,5 @@
 <?php
 /*
- * Ficher servant à tester le fonctionnement de github
+ * Fichier servant à tester le fonctionnement de GitHub
  */
 echo("Bienvenue sur Git les CIEL IR du lycée Saint Joseph Hazparne");
